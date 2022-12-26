@@ -7,9 +7,7 @@
 
 - 👯 I’m looking to collaborate on **IOT companies**
 
-- 👨‍💻 All of my projects are available at
-
-      https://testdeploy123.netlify.app/
+- 👨‍💻 All of my projects are available at https://testdeploy123.netlify.app/, www.naver.com
 
 
 - 🤝 I’m looking for help with **brilliant developers**
