@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **IOT companies**
 
-- 👨‍💻 All of my projects are available at https://testdeploy123.netlify.app/, www.naver.com
+- 👨‍💻 All of my projects are available at https://testdeploy123.netlify.app/
 
 
 - 🤝 I’m looking for help with **brilliant developers**
@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **bewinner2@gmail.com**
 
-- 📄 Know about my experiences [majored in computer sceince. Since graduing from university, I've been in software industry for quite a long time.](majored in computer sceince. Since graduing from university, I've been in software industry for quite a long time.)
+- 📄 Know about my experiences [majored in computer sceince. Since graduating from university, I've been in software industry for quite a long time.]
 
 - ⚡ Fun fact **I think I'm hella funny**
 
